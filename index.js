@@ -1,5 +1,5 @@
 
-    var a="onani/image/onani1-1.png";
+    var a="image/onani1-1.png";
     var c="image/feiai5-1.png";
     var e="image/meigulu6-1.png";
     var b="image/onani1-2.png";
